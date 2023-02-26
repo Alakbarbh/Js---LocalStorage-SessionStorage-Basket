@@ -1,0 +1,81 @@
+.card{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+#nav-area{
+    background-color: red;
+}
+
+
+#nav-area .icon a{
+    text-decoration: none;
+}
+
+#nav-area .icon a i{
+    font-size: 30px;
+    color: black;
+}
+
+
+#nav-area .icon sup{
+    top: -1em;
+    font-size: 15px;
+    color: black;
+}
+
+.card1 .card-title{
+    text-align: center;
+}
+
+.card2 .card-title{
+    text-align: center;
+}
+
+.card3 .card-title{
+    text-align: center;
+}
+
+.card4 .card-title{
+    text-align: center;
+}
+
+.card-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.brand1{
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+
+.active1{
+    font-weight: bolder;
+    font-size: 15px;
+    margin-top: 5px;
+}
+
+.item1{
+    font-size: 15px;
+    font-weight: bolder;
+    margin-top: 5px;
+}
+
+.item1 a{
+    color: black;
+}
+
+.item-1{
+    font-size: 15px;
+    font-weight: bolder;
+    margin-top: 5px;
+}
+
+.item-1 a{
+    color: black;
+}
+
+
+
